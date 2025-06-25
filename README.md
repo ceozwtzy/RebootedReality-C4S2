@@ -1,6 +1,6 @@
 # RebootedReality: Fortnite Chapter 4 Season 2 Private Server
 
-**RebootedReality** is a custom Fortnite C4S2 (Chapter 4 Season 2) private multiplayer project that aims to fully recreate and expand upon the Fortnite experience with:
+**RebootedReality** is a custom Fortnite C4S2 (24.20) private multiplayer project that aims to fully recreate and expand upon the Fortnite experience with:
 
 * ⚔️ Custom weapons like the Pump Shotgun and Thunder Shotgun
 * 🛠️ New items like the Grappler and Shockwave Hammer
@@ -64,5 +64,3 @@ This project is for **private use only** (not public matchmaking) and all code a
 * You can also reach out to the project lead: **Zwtzy (ceozwtzy on GitHub)**
 * Discord user:srt_zwtzy
 * Discord server:https://discord.gg/HFsDBAjyBB
-
-Let’s build something amazing. 💻🔥
